@@ -30,7 +30,7 @@ export default function Header() {
         <SunIcon />
       </div>
 
-      <button className="bg-gradient-to-r from-green-500 to-green-300 px-5 md:px-8 py-3 rounded-full font-medium truncate">
+      <button className="hidden md:block bg-gradient-to-r from-green-500 to-green-300 px-5 md:px-8 py-3 rounded-full font-medium truncate">
         GET IN
       </button>
     </div>
